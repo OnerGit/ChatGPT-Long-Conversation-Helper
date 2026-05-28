@@ -73,7 +73,9 @@ addEventListener
 
 ## Local storage usage
 
-The script uses `localStorage` only to remember local UI state:
+The script uses `localStorage` only to remember local UI state.
+
+It stores:
 
 - whether a visible message is collapsed or expanded;
 - whether the global control panel is hidden.

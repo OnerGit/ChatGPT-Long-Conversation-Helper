@@ -36,7 +36,7 @@ Expected result:
 
 - A long user question has a `Collapse question` button.
 - Clicking the button changes it to `Expand question`.
-- The question keeps around 3 preview lines with a fade effect.
+- The question keeps around three preview lines with a fade effect.
 - Clicking `Expand question` restores the full question.
 
 ### 3. Single answer collapse
@@ -45,7 +45,7 @@ Expected result:
 
 - A long assistant reply has a `Collapse answer` button.
 - Clicking the button changes it to `Expand answer`.
-- The answer keeps around 3 preview lines with a fade effect.
+- The answer keeps around three preview lines with a fade effect.
 - Clicking `Expand answer` restores the full answer.
 
 ### 4. Collapse all / Expand all
@@ -81,12 +81,12 @@ Expected result:
 
 Test assistant replies containing:
 
-- Markdown table
-- Fenced code block
-- Long code line
-- Ordered list
-- Nested bullet list
-- Mixed Chinese and English text
+- Markdown table;
+- fenced code block;
+- long code line;
+- ordered list;
+- nested bullet list;
+- mixed Chinese and English text.
 
 Expected result:
 
@@ -129,4 +129,4 @@ Optional internal evidence:
 
 - `screenshots/local-storage-state.png`
 - `screenshots/network-no-extra-request.png`
-- table / code-block stress-test screenshots
+- table / code-block stress-test screenshots.

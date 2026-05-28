@@ -19,6 +19,8 @@ This is especially common in workflows such as:
 
 The first version of this project focuses on one practical problem: reducing visual noise in long conversations without exporting, uploading, or externally processing conversation content.
 
+The first implementation started from long assistant replies, then added question collapsing because long prompts can also make technical conversations difficult to scan.
+
 ## MVP scope
 
 Version `v0.1.1` focuses on local collapse and expand behavior.
