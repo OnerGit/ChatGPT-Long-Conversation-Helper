@@ -392,6 +392,11 @@ For public screenshot prompts, see:
 docs/screenshot-test-prompts.md
 ```
 
+## Related writing
+
+- [Build a Privacy-First Tampermonkey Script for Long ChatGPT Conversations](https://dev.to/bob_oner/build-a-privacy-first-tampermonkey-script-for-long-chatgpt-conversations-2765)
+- [GitHub article version](article_assets/build_privacy_first_tampermonkey_script.md)
+
 ## License
 
 MIT License.
