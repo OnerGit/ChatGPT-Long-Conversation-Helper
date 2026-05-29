@@ -10,12 +10,12 @@ Long ChatGPT conversations are useful for complex technical workflows, but they 
 
 This is especially common in workflows such as:
 
-- platform access analysis;
 - technical writing planning;
-- GitHub portfolio building;
-- security article review;
-- quantitative platform risk analysis;
-- AI-assisted engineering workflows.
+- code review and debugging discussions;
+- API and tooling design notes;
+- documentation drafting;
+- AI-assisted engineering workflows;
+- long-form project planning.
 
 The first version of this project focuses on one practical problem: reducing visual noise in long conversations without exporting, uploading, or externally processing conversation content.
 
@@ -395,7 +395,7 @@ docs/screenshot-test-prompts.md
 ## Related writing
 
 - [Build a Privacy-First Tampermonkey Script for Long ChatGPT Conversations](https://dev.to/bob_oner/build-a-privacy-first-tampermonkey-script-for-long-chatgpt-conversations-2765)
-- [GitHub article version](article_assets/build_privacy_first_tampermonkey_script.md)
+- [AI-Assisted Development Is Not Autopilot](https://dev.to/bob_oner/ai-assisted-development-is-not-autopilot-15ie)
 
 ## License
 
